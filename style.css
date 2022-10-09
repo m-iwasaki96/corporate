@@ -52,7 +52,9 @@ nav {
 }
 #menu {
     display: flex;
-    width: 80%; 
+    width: 100%;
+    max-width: 1032px;
+    margin: 0 auto;
 }
 ul {
     display: flex;
